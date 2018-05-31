@@ -1,0 +1,26 @@
+#p1{
+    background: red;
+    height: 60px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#p2{
+    background: blue;
+    height: 60px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+}
+
+#p3{
+    background: gray;
+    height: 60px;
+    width: 60px;
+    border: 2px solid black;
+    border-radius: 8px;
+    text-align: center;
+}

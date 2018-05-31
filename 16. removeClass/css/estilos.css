@@ -1,0 +1,13 @@
+.nuevaClase{
+    color: blue;
+    font-size: 25px;
+}
+
+.miClase{
+    background: green;
+    text-align: center;
+    padding-top: 50px;
+    width: 100px;
+    height: 60px;
+    font-size: 25px;
+}
